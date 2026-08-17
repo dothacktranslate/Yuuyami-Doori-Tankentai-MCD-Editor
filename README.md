@@ -1,9 +1,9 @@
-Yuuyami Doori Tankentai — Simplified MCD Editor RC3
+Yuuyami Doori Tankentai — MCD Editor
 ===================================================
 
-This is the small testing-oriented version of the Yuuyami MCD editor.
+This is a simplified RC for the Yuuyami MCD editor.
 
-It does only the core jobs:
+It does the following:
 
 1. Read a raw 128 KiB PlayStation MCD.
 2. Select one Yuuyami internal save slot (1-5).
